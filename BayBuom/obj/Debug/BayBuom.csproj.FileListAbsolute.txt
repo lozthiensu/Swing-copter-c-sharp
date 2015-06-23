@@ -1,0 +1,8 @@
+c:\users\pc\documents\visual studio 2012\Projects\BayBuom\BayBuom\bin\Debug\BayBuom.exe.config
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BayBuom\BayBuom\obj\Debug\BayBuom.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BayBuom\BayBuom\obj\Debug\BayBuom.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BayBuom\BayBuom\obj\Debug\BayBuom.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BayBuom\BayBuom\bin\Debug\BayBuom.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BayBuom\BayBuom\bin\Debug\BayBuom.pdb
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BayBuom\BayBuom\obj\Debug\BayBuom.exe
+C:\Users\PC\Documents\Visual Studio 2012\Projects\BayBuom\BayBuom\obj\Debug\BayBuom.pdb
